@@ -1,0 +1,149 @@
+body {
+	background: #385266;
+
+}
+
+img.logo {
+    width: 246px;
+    margin: auto;
+    display: block;
+    position: relative;
+    top: 137px;
+    height: 59px;
+}
+
+p.form-title {
+    width: 278px;
+    height: 43px;
+    top: 103px;
+    font-family: 'Ageo';
+    font-style: normal;
+    font-weight: 850;
+    font-size: 36px;
+    line-height: 43px;
+    color: #EF5C84;
+    margin: auto;
+    display: block;
+    position: relative;
+}
+
+img.yellow-wave {
+    width: 268px;
+    height: 10px;
+    top: 111px;
+    margin: auto;
+    display: block;
+    position: relative;
+}
+
+.application-form {
+    z-index: -1;
+    margin: auto;
+    display: block;
+    width: 889px;
+    position: relative;
+    background-color: white;
+    top: 275px;
+}
+
+.application-form {
+    z-index: 1;
+    margin: auto;
+    display: block;
+    width: 889px;
+    position: relative;
+    background-color: white;
+    top: 207px;
+    height: 1430px;
+    border-radius: 40px;
+}
+
+.small-form {
+    margin: auto;
+    display: block;
+    position: relative;
+    text-align: center;
+    top: 160px;
+}
+
+input#fname {
+    background-color: #385266;
+    width: 694px;
+    height: 63px;
+    border: none;
+    border-radius: 5px;
+}
+
+input#lname {
+    background-color: #385266;
+    width: 694px;
+    height: 63px;
+    border: none;
+    border-radius: 5px;
+}
+
+input#email {
+    background-color: #385266;
+    width: 694px;
+    height: 63px;
+    border: none;
+    border-radius: 5px;
+}
+
+input#phone-number {
+    background-color: #385266;
+    width: 694px;
+    height: 63px;
+    border: none;
+    border-radius: 5px;
+}
+
+input#interested-class {
+    background-color: #385266;
+    width: 694px;
+    height: 63px;
+    border: none;
+    border-radius: 5px;
+}
+
+input#education {
+    background-color: #385266;
+    width: 694px;
+    height: 63px;
+    border: none;
+    border-radius: 5px;    
+}
+
+textarea#notes {
+    background-color: #385266;
+    width: 694px;
+    height: 157px;
+    border: none;
+    border-radius: 5px;    
+}
+
+button.button.button2 {
+    width: 261px;
+    height: 59px;
+    background: #EF5C84;
+    border-radius: 35px;
+    border-color: #EF5C84;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: ageo;
+}
+
+.row {
+    padding-top: 15px;
+}
+
+.white-bg {
+    padding-bottom: 415px;
+}
